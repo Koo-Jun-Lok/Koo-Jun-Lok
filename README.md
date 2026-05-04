@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Koo Jun Lok 👋
 
-<!--
-**Koo-Jun-Lok/Koo-Jun-Lok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student (UUM)
+💻 Interested in Backend Development & Full-Stack Systems
+📍 Malaysia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+* **Languages:** Java, JavaScript, PHP
+* **Frameworks:** Spring Boot, React.js
+* **Database:** MySQL
+* **Tools:** Git, Docker, Postman
+
+---
+
+## 📌 Projects
+
+### 🏃 Running Tracker (FYP)
+
+* PWA with real-time GPS tracking
+* NFC-based event attendance
+* Multi-role system (Runner, Admin, Manager)
+
+### 🏠 Real Estate Marketplace
+
+* React + Spring Boot full-stack system
+* REST API + role-based access
+* Dockerized backend
+
+### 💰 Personal Finance System
+
+* Expense tracking with PHP + MySQL
+* Full CRUD operations
+
+---
+
+## 📫 Contact
+
+* Email: [junlok2003@gmail.com](mailto:junlok2003@gmail.com)
+* GitHub: https://github.com/Koo-Jun-Lok
