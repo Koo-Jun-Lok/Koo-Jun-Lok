@@ -4,6 +4,8 @@ Software Engineering student at Universiti Utara Malaysia (UUM), focused on back
 
 I build practical systems with authentication, role-based dashboards, REST APIs, payment flows, third-party integrations, and data-driven admin features.
 
+Seeking an IT / Software Engineering internship focused on backend or full-stack web development.
+
 ## What I Work With
 
 - **Languages:** Java, JavaScript, PHP, SQL
