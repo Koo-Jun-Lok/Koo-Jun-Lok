@@ -47,7 +47,7 @@ A PHP and MySQL expense tracking application for recording and managing personal
 
 - Improving backend architecture with Spring Boot and RESTful API design.
 - Building cleaner full-stack project documentation.
-- Preparing production-ready project demos for internship and junior developer opportunities.
+- Preparing production-ready project demos for internship  opportunities.
 
 ## Contact
 
