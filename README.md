@@ -28,7 +28,7 @@ A web-based running and event management system for runners, event managers, and
 - Stripe Checkout integration for paid event registration.
 - Role-based dashboards for runners, managers, and admins.
 
-### [Estate_Marketplace]([https://github.com/Koo-Jun-Lok/Real_Estate_Marketplace](https://github.com/Koo-Jun-Lok/Estate_Marketplace))
+### [Estate_Marketplace](https://github.com/Koo-Jun-Lok/Estate_Marketplace)
 
 A Spring Boot backend project demonstrating REST API design, MySQL persistence, and Docker-based local deployment.
 
